@@ -4,9 +4,9 @@
 
 int main(int argc, char **argv)
 {
-	printf("Running tests...");
+	printf("Running tests...\n");
 
 
 
-	printf("Tests completed successfully.");
+	printf("Tests completed successfully.\n");
 }
