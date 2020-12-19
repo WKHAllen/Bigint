@@ -1,2 +1,3 @@
 # Bigint
-A big integer library for C
+
+A big integer library for C.
